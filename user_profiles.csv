@@ -1,0 +1,51 @@
+User_ID,Age,Gender,BMI,Health_Condition,Dietary_Restriction,Preferred_Cuisine,Taste_Preference
+U001,58,Female,29.6,Iron Deficiency,Non-Vegetarian,Asian,Mild
+U002,28,Female,18.9,None,Vegetarian,Italian,Savory
+U003,34,Female,20.0,Diabetes,Non-Vegetarian,Asian,Mild
+U004,26,Female,28.3,Iron Deficiency,Vegetarian,Indian,Spicy
+U005,20,Female,20.3,Iron Deficiency,Non-Vegetarian,Asian,Mild
+U006,42,Male,21.2,Diabetes,Non-Vegetarian,Asian,Mild
+U007,23,Female,26.1,None,Non-Vegetarian,Asian,Sweet
+U008,34,Female,19.6,Iron Deficiency,Vegan,Italian,Sweet
+U009,41,Female,19.7,Diabetes,Vegetarian,Indian,Mild
+U010,58,Male,29.4,None,Vegetarian,Italian,Mild
+U011,51,Female,22.2,Vitamin D Deficiency,Vegetarian,Italian,Spicy
+U012,29,Male,29.5,Diabetes,Vegan,Indian,Sweet
+U013,57,Male,23.5,Vitamin D Deficiency,Non-Vegetarian,Italian,Spicy
+U014,22,Female,19.7,None,Vegetarian,Asian,Mild
+U015,27,Female,21.5,None,Non-Vegetarian,Italian,Spicy
+U016,26,Male,22.9,Iron Deficiency,Vegan,Mediterranean,Spicy
+U017,30,Male,27.0,Iron Deficiency,Vegan,Indian,Sweet
+U018,33,Female,27.3,Iron Deficiency,Vegan,Mediterranean,Savory
+U019,57,Male,20.2,Iron Deficiency,Vegan,Indian,Spicy
+U020,37,Male,23.5,Diabetes,Vegetarian,Italian,Sweet
+U021,49,Male,29.5,None,Non-Vegetarian,Mediterranean,Mild
+U022,48,Male,24.9,Diabetes,Non-Vegetarian,Asian,Mild
+U023,40,Female,28.5,Vitamin D Deficiency,Vegetarian,Mediterranean,Sweet
+U024,23,Male,27.6,Vitamin D Deficiency,Vegan,Indian,Sweet
+U025,60,Male,25.6,Vitamin D Deficiency,Non-Vegetarian,Indian,Mild
+U026,57,Female,28.6,Iron Deficiency,Vegetarian,Indian,Spicy
+U027,23,Male,26.0,Iron Deficiency,Vegetarian,Italian,Sweet
+U028,39,Male,26.5,None,Vegetarian,Asian,Spicy
+U029,33,Female,26.8,Diabetes,Vegetarian,Italian,Mild
+U030,38,Male,27.1,None,Vegetarian,Mediterranean,Mild
+U031,59,Female,25.6,Iron Deficiency,Vegan,Mediterranean,Spicy
+U032,50,Female,26.9,Diabetes,Vegetarian,Mediterranean,Mild
+U033,34,Female,25.9,Diabetes,Non-Vegetarian,Asian,Spicy
+U034,24,Male,23.2,Vitamin D Deficiency,Vegetarian,Indian,Mild
+U035,39,Female,25.2,Iron Deficiency,Vegan,Mediterranean,Spicy
+U036,54,Male,18.0,Iron Deficiency,Vegan,Mediterranean,Savory
+U037,35,Male,28.7,Vitamin D Deficiency,Vegetarian,Indian,Sweet
+U038,58,Male,19.3,None,Vegan,Mediterranean,Sweet
+U039,38,Female,23.0,Vitamin D Deficiency,Vegetarian,Indian,Savory
+U040,20,Male,25.6,Iron Deficiency,Vegan,Italian,Mild
+U041,23,Female,26.0,Diabetes,Vegan,Indian,Sweet
+U042,39,Female,27.6,None,Non-Vegetarian,Italian,Sweet
+U043,44,Male,23.0,Vitamin D Deficiency,Vegetarian,Indian,Mild
+U044,19,Female,22.9,Diabetes,Non-Vegetarian,Mediterranean,Mild
+U045,22,Male,26.3,Diabetes,Vegetarian,Mediterranean,Mild
+U046,55,Female,19.8,Diabetes,Non-Vegetarian,Mediterranean,Mild
+U047,47,Male,24.8,Vitamin D Deficiency,Vegetarian,Italian,Sweet
+U048,35,Female,20.5,None,Vegan,Italian,Sweet
+U049,29,Male,25.0,None,Vegan,Italian,Sweet
+U050,43,Male,19.3,Iron Deficiency,Vegetarian,Italian,Sweet

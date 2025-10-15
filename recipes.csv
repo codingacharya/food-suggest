@@ -1,0 +1,101 @@
+Recipe_ID,Recipe_Name,Cuisine,Diet_Type,Cooking_Time,Calories,Protein_g,Fat_g,Carbs_g,Fiber_g,Vitamin_C_mg,Iron_mg,Calcium_mg
+R001,Tofu Bowl,Indian,High-Protein,41,211,9.6,9.9,28.7,3.7,12.6,1.7,123.6
+R002,Spinach Soup,Mediterranean,High-Protein,34,265,23.9,18.5,23.9,2.4,22.5,1.5,23.7
+R003,Fish Curry,Italian,Vegan,43,315,5.0,16.0,15.7,8.6,76.3,4.5,69.1
+R004,Paneer Tikka,Asian,Vegan,45,393,27.1,5.7,58.4,2.2,28.6,1.7,125.0
+R005,Tofu Bowl,Indian,Vegan,14,203,22.0,16.7,21.4,7.7,37.8,4.7,27.2
+R006,Veg Stir Fry,Italian,High-Protein,37,268,30.3,10.8,41.5,9.0,79.8,4.5,82.0
+R007,Grilled Chicken,Asian,High-Protein,44,432,21.8,14.3,22.3,3.8,70.0,1.9,28.6
+R008,Grilled Chicken,Mediterranean,Vegetarian,13,386,5.7,18.9,55.9,5.7,46.4,2.5,82.3
+R009,Lentil Soup,Asian,Low-Carb,30,340,19.4,14.9,21.5,6.6,22.8,4.0,109.9
+R010,Paneer Tikka,Mediterranean,Low-Carb,27,318,14.0,5.2,47.8,5.6,21.5,4.4,192.7
+R011,Spinach Soup,Mediterranean,Vegan,19,443,12.4,2.3,28.1,4.7,37.7,2.9,102.3
+R012,Veg Stir Fry,Mediterranean,High-Protein,14,377,9.1,17.5,40.5,9.5,80.8,1.1,131.8
+R013,Paneer Tikka,Indian,Vegetarian,22,386,8.0,11.3,40.6,2.4,26.4,1.7,48.7
+R014,Spinach Soup,Indian,Low-Carb,38,496,20.5,4.3,15.8,3.3,16.9,0.6,130.4
+R015,Paneer Tikka,Asian,Vegetarian,44,452,21.3,6.3,51.5,4.6,47.8,1.1,73.4
+R016,Veg Stir Fry,Asian,Vegetarian,10,361,30.7,2.2,39.8,2.4,39.4,2.7,189.3
+R017,Paneer Tikka,Mediterranean,Vegetarian,34,223,12.5,11.1,50.4,5.2,24.9,4.7,168.5
+R018,Lentil Soup,Italian,High-Protein,39,465,25.3,18.7,25.3,5.0,58.8,3.0,188.7
+R019,Lentil Soup,Mediterranean,Vegetarian,29,229,12.8,9.7,36.9,2.3,28.9,4.2,119.6
+R020,Fish Curry,Italian,Vegan,27,376,6.1,8.5,32.1,8.5,27.1,1.5,40.6
+R021,Quinoa Salad,Indian,Vegetarian,40,260,33.5,6.7,42.9,6.4,49.9,0.6,142.2
+R022,Tofu Bowl,Italian,Low-Carb,19,427,31.4,12.3,40.4,3.1,21.3,0.5,149.1
+R023,Quinoa Salad,Asian,Vegetarian,42,347,32.7,7.2,48.2,5.5,54.4,1.7,191.8
+R024,Grilled Chicken,Asian,Vegan,29,273,11.7,12.2,41.7,7.8,26.4,3.1,35.9
+R025,Spinach Soup,Italian,Vegan,37,433,11.9,16.0,56.6,6.6,47.5,2.0,116.8
+R026,Tofu Bowl,Mediterranean,Vegetarian,30,488,5.1,13.1,28.0,5.2,42.6,2.5,63.9
+R027,Quinoa Salad,Mediterranean,Low-Carb,38,395,16.4,5.0,58.5,1.5,41.8,3.5,184.4
+R028,Quinoa Salad,Italian,Vegan,33,275,33.0,11.6,35.0,3.1,78.9,3.4,23.6
+R029,Spinach Soup,Indian,Vegetarian,27,379,30.5,7.6,55.5,8.4,80.6,3.0,82.1
+R030,Lentil Soup,Asian,Low-Carb,27,433,20.6,5.2,38.9,1.8,15.1,2.6,14.4
+R031,Fish Curry,Italian,High-Protein,26,200,5.8,6.9,21.3,2.9,49.4,4.2,14.8
+R032,Grilled Chicken,Italian,Vegan,27,258,26.9,4.8,19.8,10.0,45.7,3.1,117.1
+R033,Quinoa Salad,Asian,Vegan,40,404,14.2,14.5,47.3,4.6,28.3,1.3,80.7
+R034,Grilled Chicken,Mediterranean,Low-Carb,22,368,10.6,4.5,54.8,6.7,73.1,4.2,166.5
+R035,Tofu Bowl,Mediterranean,Vegetarian,10,205,17.9,8.9,17.0,8.0,66.3,1.3,49.8
+R036,Fish Curry,Asian,High-Protein,22,289,24.0,14.3,42.8,4.5,36.5,3.3,50.3
+R037,Fish Curry,Mediterranean,Low-Carb,14,390,28.2,4.3,10.7,7.8,30.5,2.7,120.6
+R038,Spinach Soup,Italian,High-Protein,32,500,22.4,8.0,22.9,8.5,72.7,1.2,95.9
+R039,Spinach Soup,Indian,Vegan,30,316,12.8,2.4,53.6,9.9,14.3,3.4,199.4
+R040,Lentil Soup,Mediterranean,Vegetarian,42,261,15.5,8.6,28.9,8.4,35.2,2.5,107.4
+R041,Lentil Soup,Indian,Low-Carb,17,155,6.2,2.0,40.8,3.4,72.8,3.0,132.2
+R042,Lentil Soup,Indian,Vegan,42,279,12.6,12.5,45.3,7.0,25.5,0.8,51.5
+R043,Tofu Bowl,Asian,Vegetarian,18,155,20.7,12.1,41.0,3.7,21.6,4.6,107.7
+R044,Spinach Soup,Mediterranean,High-Protein,35,465,10.9,8.1,12.4,4.3,82.8,0.5,84.7
+R045,Fish Curry,Asian,Vegetarian,27,241,6.3,5.1,26.6,6.5,81.9,3.5,164.1
+R046,Paneer Tikka,Indian,High-Protein,34,281,28.5,8.3,39.9,1.3,8.8,4.0,97.7
+R047,Quinoa Salad,Indian,Vegan,39,339,18.9,12.0,35.5,9.3,82.9,1.4,186.3
+R048,Fish Curry,Indian,High-Protein,16,454,10.6,13.8,21.3,3.9,41.3,2.0,75.0
+R049,Fish Curry,Indian,Vegan,27,243,27.3,5.2,43.0,8.0,52.1,2.0,95.4
+R050,Lentil Soup,Asian,Vegan,36,448,27.4,5.7,47.2,2.3,19.0,4.1,94.9
+R051,Quinoa Salad,Indian,High-Protein,25,157,18.4,9.6,50.8,6.6,40.8,1.0,80.3
+R052,Spinach Soup,Indian,Vegan,16,325,34.4,19.9,57.7,7.8,29.9,3.9,156.2
+R053,Grilled Chicken,Asian,Low-Carb,31,305,21.3,6.1,44.5,1.3,8.1,3.9,65.3
+R054,Paneer Tikka,Indian,High-Protein,21,413,23.2,12.5,49.7,1.2,23.6,1.2,122.5
+R055,Veg Stir Fry,Mediterranean,High-Protein,24,192,14.9,16.9,20.0,8.3,13.3,1.1,42.5
+R056,Spinach Soup,Mediterranean,High-Protein,43,350,19.4,7.2,22.3,5.1,69.6,2.2,100.2
+R057,Quinoa Salad,Mediterranean,Low-Carb,31,488,23.0,18.7,56.6,2.3,33.2,0.2,25.0
+R058,Grilled Chicken,Mediterranean,Vegetarian,14,240,13.6,12.9,33.4,7.1,58.6,0.5,143.6
+R059,Lentil Soup,Mediterranean,Vegan,25,447,34.3,19.0,34.5,1.9,31.5,3.0,87.7
+R060,Grilled Chicken,Asian,High-Protein,24,207,6.0,7.7,13.9,6.4,47.5,2.6,197.8
+R061,Paneer Tikka,Mediterranean,Low-Carb,40,213,7.4,6.5,53.2,9.4,51.7,4.7,92.7
+R062,Veg Stir Fry,Mediterranean,High-Protein,22,274,28.9,15.3,15.0,7.4,81.5,1.5,182.5
+R063,Spinach Soup,Asian,High-Protein,12,346,24.7,17.8,49.2,1.6,64.5,2.9,106.1
+R064,Veg Stir Fry,Indian,High-Protein,33,409,10.1,9.7,33.9,9.2,79.7,2.1,27.0
+R065,Spinach Soup,Asian,High-Protein,27,322,33.1,3.9,57.5,2.2,79.9,2.2,86.3
+R066,Veg Stir Fry,Indian,High-Protein,23,434,34.2,15.8,16.0,5.4,34.3,4.1,122.5
+R067,Veg Stir Fry,Asian,High-Protein,33,444,26.5,5.7,51.3,7.2,36.0,3.8,120.9
+R068,Lentil Soup,Asian,Low-Carb,37,184,17.3,9.4,19.1,8.0,6.5,2.8,155.2
+R069,Veg Stir Fry,Italian,Vegan,45,238,25.0,8.1,24.8,6.5,33.7,3.3,57.5
+R070,Quinoa Salad,Indian,Vegetarian,25,457,29.2,5.4,23.4,3.0,71.5,1.2,76.5
+R071,Quinoa Salad,Mediterranean,Vegan,28,394,18.7,18.9,40.6,9.9,47.2,2.9,157.6
+R072,Paneer Tikka,Asian,High-Protein,12,188,14.8,17.0,17.4,2.7,78.7,2.7,152.3
+R073,Tofu Bowl,Indian,Low-Carb,40,499,33.4,6.8,41.7,6.5,41.3,3.0,141.7
+R074,Lentil Soup,Asian,Low-Carb,34,466,20.0,11.2,39.9,6.3,33.5,3.6,67.0
+R075,Paneer Tikka,Indian,Vegan,28,213,18.0,4.2,56.0,1.3,20.2,1.4,142.3
+R076,Quinoa Salad,Asian,Vegetarian,18,199,29.7,9.5,10.8,1.7,36.1,2.9,125.9
+R077,Veg Stir Fry,Indian,Low-Carb,29,495,13.0,4.3,55.4,2.4,8.1,4.5,23.8
+R078,Grilled Chicken,Italian,Vegetarian,22,388,29.9,4.9,50.2,3.8,84.4,1.5,49.7
+R079,Lentil Soup,Asian,Vegan,15,196,32.5,19.1,25.3,3.4,18.8,4.2,93.4
+R080,Fish Curry,Indian,High-Protein,16,270,27.4,7.1,54.1,6.3,62.4,5.0,67.0
+R081,Veg Stir Fry,Indian,Vegetarian,33,453,32.7,3.3,36.1,9.1,34.6,0.8,86.1
+R082,Grilled Chicken,Mediterranean,Low-Carb,37,469,28.6,8.7,33.4,2.7,64.7,0.2,70.9
+R083,Paneer Tikka,Asian,Vegetarian,16,161,18.4,2.2,23.7,5.1,19.9,1.0,157.0
+R084,Fish Curry,Italian,Vegetarian,17,207,11.6,19.8,40.1,6.2,10.5,4.8,26.1
+R085,Veg Stir Fry,Asian,Vegetarian,34,350,18.9,5.0,26.3,6.2,13.3,2.5,27.0
+R086,Paneer Tikka,Indian,Vegan,39,378,24.4,15.8,53.4,4.2,20.0,1.2,161.1
+R087,Fish Curry,Asian,High-Protein,44,496,21.6,17.2,34.7,5.9,20.3,3.4,121.5
+R088,Paneer Tikka,Mediterranean,Vegetarian,45,358,22.7,15.6,55.6,6.9,45.9,0.5,112.2
+R089,Lentil Soup,Indian,Low-Carb,38,219,30.8,18.6,20.5,6.5,47.3,0.7,25.7
+R090,Veg Stir Fry,Italian,Low-Carb,26,222,7.7,13.6,50.4,5.5,41.8,3.0,87.2
+R091,Lentil Soup,Asian,Vegan,38,280,19.9,12.5,10.3,2.5,49.7,1.3,188.7
+R092,Spinach Soup,Mediterranean,High-Protein,27,482,27.0,12.8,27.2,9.3,73.7,2.3,193.3
+R093,Spinach Soup,Indian,Vegetarian,10,266,21.3,15.5,27.1,5.3,82.1,0.4,100.1
+R094,Veg Stir Fry,Italian,Vegan,41,353,20.9,2.5,47.0,8.4,8.8,3.7,181.3
+R095,Fish Curry,Indian,Low-Carb,32,319,34.7,16.0,31.1,7.7,6.7,1.4,83.2
+R096,Tofu Bowl,Indian,High-Protein,31,169,20.6,3.4,35.0,7.1,24.4,0.8,29.3
+R097,Lentil Soup,Mediterranean,Vegan,40,405,21.7,3.1,37.2,3.9,27.4,4.8,23.9
+R098,Tofu Bowl,Mediterranean,Low-Carb,17,259,13.9,17.1,45.9,3.6,5.0,2.3,99.2
+R099,Spinach Soup,Indian,Low-Carb,14,238,21.9,6.1,55.0,2.1,86.0,0.7,50.8
+R100,Veg Stir Fry,Italian,High-Protein,40,419,29.1,2.7,14.6,6.8,73.4,0.4,101.4
